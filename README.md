@@ -1,11 +1,14 @@
 <h2 align="center">👋 欢迎访问我的GitHub</h2>
 
 <p align="center">
- <a href="https://www.wangyurui.top/"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=huzizi.com&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
- <a href="https://www.wangyurui.top/"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJohnWangYR7F" alt="Personal Blog in Chinese" /></a>
-  
+ <a href="https://www.wangyurui.top/"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=wangyurui.top&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
 </p>
 
+<p>
+ <a href="https://www.wangyurui.top/"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJohnWangYR7F" alt="Personal Blog in Chinese" /></a>
+</p>
+
+<p align="center">
 **🙏 **
 
 ```
@@ -29,7 +32,7 @@
   ================-.`___`-.__\ \___  /__.-'_.'_.-'================  
                               `=--=-'                            
 ```
-
+</p>
 
 <!--
 **wangyr45/wangyr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
