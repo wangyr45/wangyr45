@@ -3,7 +3,7 @@
 
 <img src="cat.gif" />
 <p align="center">
- <a href="https://www.wangyurui.top/"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=wangyurui.top&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
+ <a href="https://www.wangyurui.com/"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=wangyurui.top&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
  <a href="https://www.instagram.com/jackiexiong007/"><img src="https://img.shields.io/website?color=4285f4&label=Instagram&style=for-the-badge&up_message=@jakciexiong007&url=https%3A%2F%2Fwww.instagram.com" alt="Instagram" /></a>
  <a href="https://twitter.com/JohnWangYR7"><img src="https://img.shields.io/website?color=e6172d&label=Twitter&style=for-the-badge&up_message=@JackieWong&url=https%3A%2F%2Fwww.instagram.com" alt="Twitter" /></a>
 </p>
