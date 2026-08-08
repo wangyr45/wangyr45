@@ -1,26 +1,47 @@
-<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<h1 align="center">👋 欢迎访问我的 GitHub</h1>
 
-
-<img src="cat.gif" />
 <p align="center">
- <a href="https://www.wangyurui.com/"><img src="https://img.shields.io/website?color=34a853&label=Blog&style=for-the-badge&up_message=wangyurui.top&url=https%3A%2F%2Fhuzizi.com%2F" alt="Personal Blog in Chinese" /></a>
- <a href="https://www.instagram.com/jackiexiong007/"><img src="https://img.shields.io/website?color=4285f4&label=Instagram&style=for-the-badge&up_message=@jakciexiong007&url=https%3A%2F%2Fwww.instagram.com" alt="Instagram" /></a>
- <a href="https://twitter.com/JohnWangYR7"><img src="https://img.shields.io/website?color=e6172d&label=Twitter&style=for-the-badge&up_message=@JackieWong&url=https%3A%2F%2Fwww.instagram.com" alt="Twitter" /></a>
+  <img src="cat.gif" width="320" alt="cat" />
 </p>
 
-<!--
-**wangyr45/wangyr45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.wangyurui.com/">
+    <img src="https://img.shields.io/badge/Blog-wangyurui.com-34a853?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://www.instagram.com/pkm_tyne">
+    <img src="https://img.shields.io/badge/Instagram-@pkm__tyne-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/LudwigWang01">
+    <img src="https://img.shields.io/badge/X-@LudwigWang01-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wangyr45&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 🙋 关于我
 
+- 🔭 目前在做：……
+- 🌱 正在学习：……
+- 💬 可以找我聊：……
+- 📫 联系方式：……
+- ⚡ 冷知识：……
+
+---
+
+### 📊 GitHub 数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wangyr45&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyr45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangyr45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
